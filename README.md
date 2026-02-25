@@ -1,16 +1,51 @@
-# React + Vite
+# 📝 Modern To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive To-Do List application built with **React** and **Vite**. This project features a modern Glassmorphism UI, mobile-first design, and automated deployment via GitHub Actions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+[**View the Live Application here**](https://nataliialitskevych.github.io/my-todo-app/)
 
-## React Compiler
+## 📸 Preview
+<p align="center">
+  <img src="./screenshot.png" alt="App Preview" width="500">
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+* **Lightning Fast:** Powered by Vite for optimized development and build speed.
+* **Modern UI:** Glassmorphism design with a beautiful background blur effect.
+* **Responsive:** Fully adapted for mobile, tablet, and desktop screens.
+* **Automated Deployment:** Integrated with **GitHub Actions** for seamless updates upon every push.
+* **Task Management:** Add, complete (strikethrough), and delete tasks efficiently.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+* **React 18** (Hooks & Functional Components)
+* **Vite** (Next-generation frontend tool)
+* **CSS3** (Flexbox, Backdrop-filters, Media Queries)
+* **GitHub Actions** (CI/CD Pipeline)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/nataliialitskevych/my-todo-app.git
+
+2. **Install dependencies:**
+      npm install
+
+3. **Run the app:**
+      npm start
+
+4. **Open the app in your browser:**
+      👉 http://localhost:3000
+
+---
+
+## 🧠 Author
+
+👩‍💻 **Nataliia Litskevych** 
